@@ -50,8 +50,6 @@ $ git clone https://github.com/n00naki/cypress-talk.git
 ## Rodando o cypress
 
 ```bash
-# Vá para o diretório gazin-cypress/
-$ cd gazin-cypress
 # Instale as dependências
 $ yarn
 # Rodando testes com a interface do cypress
@@ -72,12 +70,6 @@ Rodando os comandos acima os testes iniciam na pasta cypress/integration onde po
 Abra um pull request para analisarmos as mudanças.
 
 Você também pode nos ajudar abrindo issues.
-
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/marcelogaldino/sendEmail/blob/main/LICENSE) for details.
-
-Made with ♥ by Marcelo Galdino :wave: [Get in touch!](https://www.linkedin.com/in/marcelogaldino/)
 
 [typescript]: https://www.typescriptlang.org/
 [nodejs]: https://nodejs.org/en/
