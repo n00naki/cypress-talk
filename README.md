@@ -3,7 +3,7 @@
 </h2>
 
 <h2 align="center">
-    <img src="./src/images/logo-gazin-tech.png" width="380px" />
+    <img src="./logo-gazin/logo-gazin-tech.png" width="380px" />
 </h2>
 
 <br/>
