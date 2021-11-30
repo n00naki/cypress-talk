@@ -50,7 +50,7 @@ $ git clone https://github.com/n00naki/cypress-talk.git
 ## Rodando o cypress
 
 ```bash
-# Vá para o diretório backend/
+# Vá para o diretório gazin-cypress/
 $ cd gazin-cypress
 # Instale as dependências
 $ yarn
